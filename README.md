@@ -17,4 +17,4 @@ TIME=2Years
 
 simple interest=(1000+5+2)/100=100
 Technologies used
-.To be updated based on the project implementation
+.to be updated based on the project implementation
